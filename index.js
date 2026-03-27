@@ -1,4 +1,8 @@
-console.log("Node js day 1")
-console.log("Node js day 2")
-console.log("Node js day 3")
-console.log("Node js day 4")
+let a=20
+let b=25
+function fun1(){
+    console.log(a+b);
+}
+
+// module.exports=fun1
+// module.exports={a,b}
